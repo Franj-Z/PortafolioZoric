@@ -13,7 +13,7 @@ const Datos = () => {
                         </div>
                         <div className='col-12 col-sm-12 col-md-6 col-xxl-6 text-center'>
                             <img src={imagenes.Team} alt="Equipo de trabajo" className='img-fluid team mb-2' />
-                            <p className='tituloPersona wallet-color m-0'>Cristian Enrique Bosz y Francisco Agustin Zoric</p>
+                            <p className='tituloPersona wallet-color m-0'>Cristian Enrique Bösz y Francisco Agustin Zoric</p>
                             <p className='text-muted'>Fundadores y desarroladores de "Walletfy"</p>
                             
                         </div>

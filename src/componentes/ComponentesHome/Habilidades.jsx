@@ -6,7 +6,7 @@ const Habilidades = () => {
         <Fragment>
                 <section className='container'>
                     <div className='bg-act text-center'>
-                        <div className='row'>
+                        <div className='row columnaGeneral'>
                             {habilidades.map(habilidad => (
                                 <div className='col-12 col-sm-12 col-md-4 col-xxl-4 container columna'>
                                     <div>

@@ -29,9 +29,9 @@
   padding-top: 50px;
 }
 .subtitulo {
-  font-family: 'eurostile';
+  font-family: 'Avenir';
   line-height: 1.5;
-  font-size: 1.5rem
+  font-size: 1.3rem;
 }
 .subtitle {
     font-size: 1.25rem;
@@ -45,6 +45,10 @@
 .titulo2 {
   font-family: 'eurostile';
   padding-top: 100px;
+}
+.titulo22 {
+  font-family: 'eurostile';
+  padding-top: 40px;
 }
 .titulo3 {
   font-size: 1.5rem;
@@ -95,9 +99,9 @@
 }
 .list-hab {
   list-style: none;
-  margin-left: 0;
-  margin-top: 0;
   display: initial;
+  margin: 0;
+  padding: 0;
 }
 .columna {
   border-bottom: 0px solid #E6ECF8;
@@ -107,6 +111,10 @@
 .columnaF {
   border-bottom: 0px solid #E6ECF8;
   padding: 60px 35px;
+}
+.columnaGeneral {
+  margin-left: 0;
+  margin-right: 0;
 }
 .text-blue {
   color: #141c3a;
@@ -213,11 +221,6 @@ figcaption {
 .ul-redes{
   list-style: none;
   display: block;
-}
-.columna {
-  border-bottom: 0px solid #E6ECF8;
-  border-right: 0px solid #E6ECF8;
-  padding: 60px 35px;
 }
 .logo {
   max-width: 90px;

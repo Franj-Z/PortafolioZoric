@@ -5,9 +5,9 @@ import trabajos from '../../DatosPortafolio/Trabajos';
 const Trabajos = () => {
     return ( 
         <Fragment>
-            <section className='pb-5'>
+            <section>
                 <div className='container text-center'>
-                    <h2 className='titulo2 text-blue'>Mis últimos trabajos</h2>
+                    <h2 className='titulo22 text-blue'>Mis últimos trabajos</h2>
                     <p className='parrafo mb-5'>Aquí hay algunos de mis últimos proyectos creados</p>
                     <div className='container'>
                         <div className='row'>                                

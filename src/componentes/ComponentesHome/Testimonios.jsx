@@ -7,7 +7,7 @@ const Testimonios = () => {
             <section className='container'>
                 <div>
                     <div className='text-center'>
-                        <h1 className='titulo2 text-blue'>Testimonios</h1>
+                        <h1 className='titulo22 text-blue'>Testimonios</h1>
                         <h2 className='subtitle'>Las personas con las que he trabajado han dicho algunas cosas muy lindas...</h2>
                         <div>
                             <img src={imagenes.Titi} alt="Cristian Bosz" className='img-fluid avatarTest' />

@@ -3,7 +3,7 @@ import imagenes from "../assets/imagenes";
 const trabajos = [
     {
         imagen: imagenes.Walletfy,
-        titulo: "Es una aplicación de finanzas personales. La idea es ayudar al usuario en la organización de sus gastos. Además, capacita al usuario con contenido financiero.",
+        titulo: "Es una aplicación de finanzas personales. La idea es ayudar y capacitar al usuario en la organización de sus gastos.",
         ruta: "/walletfy",
     },
     {

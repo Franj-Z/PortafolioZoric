@@ -52,6 +52,7 @@ import thorkeyl from './imagenes/thorkeyl.png';
 
 
 
+
 export default {
     "Profile": profile,
     "Compus": compus,

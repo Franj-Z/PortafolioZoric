@@ -11,7 +11,7 @@ const Footer = () => {
                     </a>
                     <div>
                         <div>
-                            <p className='footer-t'>Viviendo, Aprendiendo y subiendo de nivel día a día.</p>
+                            <p className='footer-t'>Viviendo, aprendiendo y subiendo de nivel día a día.</p>
                         </div>
                     </div>
                     <div className='text-center'>

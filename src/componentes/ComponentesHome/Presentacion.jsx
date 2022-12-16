@@ -6,7 +6,7 @@ const Presentacion = () => {
         <section className='container-fluid'>
             <div className='text-center mb-5'>
                 <h1 className='titulo'>Diseñador, Desarrollador Frontend y Backend</h1>
-                <h2 className='subtitulo'>Diseño y codifico cosas increíbles y sencillas, y me encanta lo que hago.</h2>
+                <h2 className='subtitulo'>Diseño y codifico cosas increíbles, sencillas, y me encanta lo que hago.</h2>
                 <img src={imagenes.Profile} alt="Imagen de prefil" className='img-fluid mt-4'/>
             </div>
             <div className='text-center mt-5'>

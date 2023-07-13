@@ -9,7 +9,7 @@ import './App.css';
 import Walletfy from './componentes/ComponentesProyectos/Walletfy';
 import Franjz from './componentes/ComponentesProyectos/Franjz';
 import Thorkey from './componentes/ComponentesProyectos/Thorkey';
-
+import Aptek from './componentes/ComponentesProyectos/Aptek';
 function App() {
   return (
     <Fragment className="App">
@@ -19,7 +19,7 @@ function App() {
           <Route path='/walletfy' element={<Walletfy/>}/>
           <Route path='/franjz' element={<Franjz/>}/>
           <Route path='/thorkey' element={<Thorkey/>}/>
-
+          <Route path='/aptek' element={<Aptek/>}/>
         </Routes>
       </BrowserRouter>
     </Fragment>

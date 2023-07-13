@@ -2,6 +2,11 @@ import imagenes from "../assets/imagenes";
 
 const trabajos = [
     {
+        imagen: imagenes.Aptek,
+        titulo: "Panel de adminitracion del Motor de Aereos V4",
+        ruta: "/aptek",
+    },
+    {
         imagen: imagenes.Walletfy,
         titulo: "Es una aplicación de finanzas personales. La idea es ayudar y capacitar al usuario en la organización de sus gastos.",
         ruta: "/walletfy",

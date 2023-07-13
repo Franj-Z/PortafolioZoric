@@ -22,6 +22,8 @@ import probanner from './imagenes/probanner.jpg';
 import franjmuk from './imagenes/franjmuk.png';
 import thorkeyh from './imagenes/thorkeyh.jpg';
 import thorkeyl from './imagenes/thorkeyl.png';
+import aptek from './imagenes/aptek.jpg';
+
 
 
 
@@ -78,6 +80,8 @@ export default {
     "Franjmuk": franjmuk,
     "Thorkeyh": thorkeyh,
     "Thorkeyl": thorkeyl,
+    "Aptek": aptek,
+
 
 
 

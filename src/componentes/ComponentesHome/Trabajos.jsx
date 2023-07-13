@@ -10,9 +10,9 @@ const Trabajos = () => {
                     <h2 className='titulo22 text-blue'>Mis últimos trabajos</h2>
                     <p className='parrafo mb-5'>Aquí hay algunos de mis últimos proyectos creados</p>
                     <div className='container'>
-                        <div className='row'>                                
+                        <div className='row justify-content-center'>                                
                         {trabajos.map(trabajo => (                            
-                            <div className='col-12 col-sm-12 col-md-6 col-xxl-6'>
+                            <div className='col-12 col-sm-12 col-md-6 col-xxl-4'>
                                 <figure className='figure-home'>
                                     <img src={trabajo.imagen} alt="Walletfy" className='img-fluid img-pro' />
                                     <figcaption>

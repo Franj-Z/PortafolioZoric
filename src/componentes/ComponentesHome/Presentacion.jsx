@@ -1,5 +1,16 @@
 import React, { Fragment } from 'react'
 import imagenes from '../../assets/imagenes';
+import Lottie from 'react-lottie';
+import skills from '../../assets/lottie/skills.json';
+
+const defaultOptions = {
+    loop: false,
+    autoplay: false,
+    rendererSettings: {
+      preserveAspectRatio: 'xMidYMid slice'
+    }
+  };
+  
 const Presentacion = () => {
     return (  
         <Fragment>
@@ -17,7 +28,7 @@ const Presentacion = () => {
                 <div className='bg-franj'>
                     <div className='container'>
                         <div className='text-light'>
-                            <h1 className='titulo2'>Hola, soy Agus. Encantado de conocerte.</h1>
+                            <h1 className='titulo2 text-light'>Hola, soy Agus. Encantado de conocerte.</h1>
                             <p className='parraf'>Desde que comencé mi viaje como diseñador y programador, he trabajado en varios proyectos con el fin de aprender y nutrir mis habilidades y conocimientos. Soy tranquilamente confiado, naturalmente curioso y trabajo perpetuamente para mejorar día a día en mi profesión. 
                             <br /> 
                             <i>Saber más que ayer pero menos que mañana.</i></p>

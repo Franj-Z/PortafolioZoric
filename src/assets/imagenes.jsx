@@ -23,9 +23,15 @@ import franjmuk from './imagenes/franjmuk.png';
 import thorkeyh from './imagenes/thorkeyh.jpg';
 import thorkeyl from './imagenes/thorkeyl.png';
 import aptek from './imagenes/aptek.jpg';
-
-
-
+import logoAptek from './imagenes/Aptek.png';
+import admin1 from './imagenes/aptek/layer01.png';
+import admin2 from './imagenes/aptek/layer02.png';
+import auto from './imagenes/aptek/autoriza.svg';
+import exel from './imagenes/aptek/exel.svg';
+import mails from './imagenes/aptek/mails.svg';
+import ana from './imagenes/aptek/ana.svg';
+import per from './imagenes/aptek/per.svg';
+import plane from './imagenes/aptek/plane.svg';
 
 
 
@@ -81,7 +87,15 @@ export default {
     "Thorkeyh": thorkeyh,
     "Thorkeyl": thorkeyl,
     "Aptek": aptek,
-
+    "logoAptek": logoAptek,
+    "admin1": admin1,
+    "admin2": admin2,
+    "auto": auto,
+    "exel": exel,
+    "mails": mails,
+    "ana": ana,
+    "per": per,
+    "plane": plane,
 
 
 
